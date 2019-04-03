@@ -2,6 +2,10 @@
   "name": "webauth-iii-challenge",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "server": "nodemon",
+    "start": "node index.js"
+  },
   "repository": "git@github.com:david-chua/webauth-iii-challenge.git",
   "author": "david-chua <dp_chua@hotmail.com>",
   "license": "MIT",
